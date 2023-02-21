@@ -1,3 +1,6 @@
 # PDT-App
 This is a project carried out in Java, it was carried out to manage the records of a university, the project has as main technologies JavaEE, OracleXE, Hibernate, JPA, the software uses patterns such as DAO and Singleton, we also use several libraries such as docmosis for the generation of a .pdf document with reports that the software generates, jasypt to hash the password of each user and thus protect their data, we also use lombok to avoid write getters or setters, within the software the university analyst can issue requests , upload certificates, generate reports and issue them in .pdf format, you can also issue certificates to students in .pdf format, in addition to this, the analyst type user can summon students to different events and mark an attendance and optionally a grade, the student user from his profile can make requests for records and the tutor can manage some operations Extra needs on the students summoned, this software was initially designed in a local environment but it is planned to scale the project to a multiplatform software in which it can be put into production, Web, Mobile & Desktop
 
+## App Screens
+
+Click [Here](https://drive.google.com/drive/folders/1VPmiRhE1z4LNJ4mVXuQVUMDFqnut4NnX?usp=sharing) to view the principal app screens.
