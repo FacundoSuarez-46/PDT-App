@@ -1,0 +1,12 @@
+
+
+<converter-pool defaultGroup="myConverters">
+
+    <group name="myConverters" description="Use one embedded converter" officeConverterClass="embedded">
+
+        <instance count="1"/>
+     
+    </group>
+
+</converter-pool>
+
